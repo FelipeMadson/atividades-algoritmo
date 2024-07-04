@@ -1,3 +1,4 @@
+import { question } from 'readline-sync';
 function verificarCaracteristica(numero) {
     const dezenasUnidades = parseInt(numero / 100);
     const milharesCentenas = numero % 100;
@@ -14,5 +15,4 @@ function encontrarNumeros() {
         }
     }
 }
-
 encontrarNumeros();
