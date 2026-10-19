@@ -22,4 +22,4 @@ node Atividade_A/<script>.js
 
 ## Autor
 
-Desenvolvido por [Felipe Madson](https://github.com/FelipeMadson).
+Desenvolvido por [Felipe Madison](https://github.com/FelipeMadson).
